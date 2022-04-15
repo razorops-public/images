@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="25">
+  <linearGradient id="lg" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#bbb" stop-opacity="0.10"/>
+  <stop offset="1%" stop-color="" stop-opacity="0.10"/>
+  </linearGradient>
+  <clipPath id="r"><rect x="0" y="0" width="150" height="25" rx="3" ry="3" style="fill:#fff;"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <!-- <rect x="0" y="0" width="45" height="20" style="fill:#555"/> -->
+    <rect x="0" y="0" width="150" height="25" style="fill:#159705"/>
+    <!-- <rect x="0" y="0" width="100" height="20" fill="url(#lg)"/> -->
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+  <!-- <text x="235" y="150" fill-opacity=".3" transform="scale(.1)" textLength="350" fill="#010101">CONNECT</text>
+  <text x="235" y="140" transform="scale(.1)" textLength="350">CONNECT</text> -->
+  <!-- <text x="450" y="140" fill-opacity=".3" transform="scale(.1)" textLength="750" fill="#010101">CONNECT RAZOROPS</text> -->
+  <text x="570" y="140" transform="scale(.13)" textLength="1050">CONNECT RAZOROPS</text>
+  </g>
+</svg>
